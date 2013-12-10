@@ -1,0 +1,800 @@
+2013-12-08 15:13:47 overwrite stylesheets/app.css 
+2013-12-08 15:14:44    remove .sass-cache/ 
+2013-12-08 15:14:44    remove stylesheets/app.css 
+2013-12-08 15:14:48    create stylesheets/app.css 
+2013-12-08 15:19:10     error sass/app.scss (Line 11 of sass/_custom.scss: Invalid CSS after ".c": expected "{", was "")
+2013-12-08 15:19:10 overwrite stylesheets/app.css 
+2013-12-08 15:19:41 overwrite stylesheets/app.css 
+2013-12-08 15:34:22 identical stylesheets/app.css 
+2013-12-08 15:34:37 identical stylesheets/app.css 
+2013-12-08 15:34:42 overwrite stylesheets/app.css 
+2013-12-08 15:34:49 overwrite stylesheets/app.css 
+2013-12-08 15:35:21 overwrite stylesheets/app.css 
+2013-12-08 17:47:42 overwrite stylesheets/app.css 
+2013-12-08 17:49:08 overwrite stylesheets/app.css 
+2013-12-08 17:52:13 overwrite stylesheets/app.css 
+2013-12-08 17:53:03 overwrite stylesheets/app.css 
+2013-12-08 17:53:10 overwrite stylesheets/app.css 
+2013-12-08 17:53:30     error sass/app.scss (Line 2 of sass/_custom.scss: Invalid CSS after "  background: ": expected expression (e.g. 1px, bold), was "#")
+2013-12-08 17:53:30 overwrite stylesheets/app.css 
+2013-12-08 17:53:32 overwrite stylesheets/app.css 
+2013-12-08 17:57:27 overwrite stylesheets/app.css 
+2013-12-08 17:57:45 overwrite stylesheets/app.css 
+2013-12-08 18:04:42 identical stylesheets/app.css 
+2013-12-08 18:05:25 identical stylesheets/app.css 
+2013-12-08 18:05:44 overwrite stylesheets/app.css 
+2013-12-08 18:05:52 overwrite stylesheets/app.css 
+2013-12-08 18:05:56 overwrite stylesheets/app.css 
+2013-12-08 18:06:03 identical stylesheets/app.css 
+2013-12-08 18:06:09 identical stylesheets/app.css 
+2013-12-08 18:06:15 overwrite stylesheets/app.css 
+2013-12-08 18:06:45 identical stylesheets/app.css 
+2013-12-08 18:07:24 identical stylesheets/app.css 
+2013-12-08 18:07:43     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "...ention: '.png')": expected "{", was "")
+2013-12-08 18:07:43 overwrite stylesheets/app.css 
+2013-12-08 18:08:13     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "...ention: '.png')": expected "{", was ";")
+2013-12-08 18:08:13 overwrite stylesheets/app.css 
+2013-12-08 18:08:51     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "...$extention: '')": expected "{", was ";")
+2013-12-08 18:08:51 overwrite stylesheets/app.css 
+2013-12-08 18:09:14     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "...o, $extention: ": expected expression (e.g. 1px, bold), was ".png);")
+2013-12-08 18:09:14 overwrite stylesheets/app.css 
+2013-12-08 18:09:27     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "...auto, $h: auto)": expected "{", was ";")
+2013-12-08 18:09:27 overwrite stylesheets/app.css 
+2013-12-08 18:09:32 overwrite stylesheets/app.css 
+2013-12-08 18:11:04 identical stylesheets/app.css 
+2013-12-08 18:14:13 overwrite stylesheets/app.css 
+2013-12-08 18:14:20 overwrite stylesheets/app.css 
+2013-12-08 18:14:29 identical stylesheets/app.css 
+2013-12-08 18:15:28 overwrite stylesheets/app.css 
+2013-12-08 18:15:53 overwrite stylesheets/app.css 
+2013-12-08 18:16:13 overwrite stylesheets/app.css 
+2013-12-08 18:17:30     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...ckground-image(": expected variable (e.g. $foo), was "../images/decis...")
+2013-12-08 18:17:30 overwrite stylesheets/app.css 
+2013-12-08 18:17:57     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...ckground-image(": expected variable (e.g. $foo), was "'../images/deci...")
+2013-12-08 18:17:57 overwrite stylesheets/app.css 
+2013-12-08 18:19:14     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...ckground-image(": expected variable (e.g. $foo), was "image: ../image...")
+2013-12-08 18:19:14 overwrite stylesheets/app.css 
+2013-12-08 18:19:26     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...-image($image: ": expected expression (e.g. 1px, bold), was "../images/decis...")
+2013-12-08 18:19:26 overwrite stylesheets/app.css 
+2013-12-08 18:19:43     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "..., $type: 'png')": expected "{", was ";")
+2013-12-08 18:19:43 overwrite stylesheets/app.css 
+2013-12-08 18:20:03     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "..., $type: 'png')": expected "{", was ";")
+2013-12-08 18:20:03 identical stylesheets/app.css 
+2013-12-08 18:20:53     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "..., $type: 'png')": expected "{", was ";")
+2013-12-08 18:20:53 identical stylesheets/app.css 
+2013-12-08 18:21:53 overwrite stylesheets/app.css 
+2013-12-08 18:22:13 overwrite stylesheets/app.css 
+2013-12-08 18:23:14 overwrite stylesheets/app.css 
+2013-12-08 18:26:53 identical stylesheets/app.css 
+2013-12-08 18:27:17     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...g', 50%, auto, ": expected mixin argument, was ".png);")
+2013-12-08 18:27:17 overwrite stylesheets/app.css 
+2013-12-08 18:27:19     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...g', 50%, auto, ": expected mixin argument, was ".png);")
+2013-12-08 18:27:19 identical stylesheets/app.css 
+2013-12-08 18:27:37     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was ".png);")
+2013-12-08 18:27:37 overwrite stylesheets/app.css 
+2013-12-08 18:31:15     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was ".png);")
+2013-12-08 18:31:15 identical stylesheets/app.css 
+2013-12-08 18:31:30     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "  @mixin image-2x(": expected variable (e.g. $foo), was "../images/decis...")
+2013-12-08 18:31:30 overwrite stylesheets/app.css 
+2013-12-08 18:31:48     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "  @mixin image-2x(": expected variable (e.g. $foo), was "'../images/deci...")
+2013-12-08 18:31:48 overwrite stylesheets/app.css 
+2013-12-08 18:32:09     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...mage-2x($image)": expected "{", was ";")
+2013-12-08 18:32:09 overwrite stylesheets/app.css 
+2013-12-08 18:33:51     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...mage-2x($image)": expected "{", was ";")
+2013-12-08 18:33:51 identical stylesheets/app.css 
+2013-12-08 18:34:01 overwrite stylesheets/app.css 
+2013-12-08 18:34:39     error sass/app.scss (Line 16 of sass/_custom.scss: Undefined mixin 'image-2x'.)
+2013-12-08 18:34:39 overwrite stylesheets/app.css 
+2013-12-08 18:34:50     error sass/app.scss (Line 16 of sass/_custom.scss: Undefined mixin 'image-2x'.)
+2013-12-08 18:34:50 identical stylesheets/app.css 
+2013-12-08 18:35:06     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...g', 50%, auto, ": expected mixin argument, was ".p);")
+2013-12-08 18:35:06 overwrite stylesheets/app.css 
+2013-12-08 18:35:26     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "  @mixin at2x(": expected variable (e.g. $foo), was "'../images/deci...")
+2013-12-08 18:35:26 overwrite stylesheets/app.css 
+2013-12-08 18:35:32     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...g', 50%, auto, ": expected mixin argument, was ".p);")
+2013-12-08 18:35:32 overwrite stylesheets/app.css 
+2013-12-08 18:36:00 overwrite stylesheets/app.css 
+2013-12-08 18:36:16     error sass/app.scss (Line 16 of sass/_custom.scss: Undefined mixin 'image-2x'.)
+2013-12-08 18:36:16 overwrite stylesheets/app.css 
+2013-12-08 18:36:51     error sass/app.scss (Line 16 of sass/_custom.scss: Undefined mixin 'image-2x'.)
+2013-12-08 18:36:51 identical stylesheets/app.css 
+2013-12-08 18:37:44     error sass/app.scss (Line 16 of sass/_custom.scss: Undefined mixin 'image-2x'.)
+2013-12-08 18:37:44 identical stylesheets/app.css 
+2013-12-08 18:38:30 overwrite stylesheets/app.css 
+2013-12-08 18:39:09     error sass/app.scss (Line 9 of sass/_mixing.scss: Invalid CSS after "...background-size": expected "{", was "($size);")
+2013-12-08 18:39:09 overwrite stylesheets/app.css 
+2013-12-08 18:39:29     error sass/app.scss (Line 9 of sass/_mixing.scss: Invalid CSS after "...background-size": expected "{", was "($size);")
+2013-12-08 18:39:29 identical stylesheets/app.css 
+2013-12-08 18:39:41     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...ina.png", 165px": expected ")", was ";);")
+2013-12-08 18:39:41 overwrite stylesheets/app.css 
+2013-12-08 18:39:56     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "...ina.png", 165px": expected ")", was ";);")
+2013-12-08 18:39:56 identical stylesheets/app.css 
+2013-12-08 18:40:05     error sass/app.scss (Line 16 of sass/_custom.scss: Mixin image-2x is missing argument $size.)
+2013-12-08 18:40:05 overwrite stylesheets/app.css 
+2013-12-08 18:40:08     error sass/app.scss (Line 16 of sass/_custom.scss: Mixin image-2x is missing argument $size.)
+2013-12-08 18:40:08 identical stylesheets/app.css 
+2013-12-08 18:40:15     error sass/app.scss (Line 16 of sass/_custom.scss: Mixin image-2x is missing argument $size.)
+2013-12-08 18:40:15 identical stylesheets/app.css 
+2013-12-08 18:40:23 overwrite stylesheets/app.css 
+2013-12-08 18:40:38 identical stylesheets/app.css 
+2013-12-08 18:40:51 overwrite stylesheets/app.css 
+2013-12-08 18:40:55 overwrite stylesheets/app.css 
+2013-12-08 18:41:04 overwrite stylesheets/app.css 
+2013-12-08 18:42:15     error sass/app.scss (Line 17 of sass/_custom.scss: Invalid CSS after "...siv-brand.png')": expected ";", was "@include image-...")
+2013-12-08 18:42:15 overwrite stylesheets/app.css 
+2013-12-08 18:42:23 overwrite stylesheets/app.css 
+2013-12-08 18:48:30 identical stylesheets/app.css 
+2013-12-08 18:48:52     error sass/app.scss (Line 22 of sass/_custom.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".jpg);")
+2013-12-08 18:48:52 overwrite stylesheets/app.css 
+2013-12-08 18:49:01     error sass/app.scss (Line 25 of sass/_custom.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".jpg);")
+2013-12-08 18:49:01 overwrite stylesheets/app.css 
+2013-12-08 18:49:16     error sass/app.scss (Line 25 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was ".jpg);")
+2013-12-08 18:49:16 overwrite stylesheets/app.css 
+2013-12-08 18:49:45     error sass/app.scss (Line 25 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was ".jpg);")
+2013-12-08 18:49:45 identical stylesheets/app.css 
+2013-12-08 18:50:59     error sass/app.scss (Line 25 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was ".png);")
+2013-12-08 18:50:59 overwrite stylesheets/app.css 
+2013-12-08 18:51:40     error sass/app.scss (Line 25 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was ".png);")
+2013-12-08 18:51:40 identical stylesheets/app.css 
+2013-12-08 18:51:43     error sass/app.scss (Line 25 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was ".png);")
+2013-12-08 18:51:43 identical stylesheets/app.css 
+2013-12-08 18:51:52 overwrite stylesheets/app.css 
+2013-12-08 18:53:11     error sass/app.scss (Line 25 of sass/_custom.scss: Mixin at2x is missing argument $w.)
+2013-12-08 18:53:11 overwrite stylesheets/app.css 
+2013-12-08 18:53:34 overwrite stylesheets/app.css 
+2013-12-08 18:57:22     error sass/app.scss (Line 25 of sass/_custom.scss: Invalid CSS after "..., 165px, 35px, ": expected mixin argument, was "'.png\');")
+2013-12-08 18:57:22 overwrite stylesheets/app.css 
+2013-12-08 18:57:33 overwrite stylesheets/app.css 
+2013-12-08 19:01:28 overwrite stylesheets/app.css 
+2013-12-08 19:01:32 identical stylesheets/app.css 
+2013-12-08 19:02:04 overwrite stylesheets/app.css 
+2013-12-08 19:06:54     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "  margin: 15px 0p": expected ";", was "@include at2x('...")
+2013-12-08 19:06:54 overwrite stylesheets/app.css 
+2013-12-08 19:07:04 overwrite stylesheets/app.css 
+2013-12-08 19:07:22 overwrite stylesheets/app.css 
+2013-12-08 19:19:05 overwrite stylesheets/app.css 
+2013-12-08 19:20:38     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "@mixin ": expected identifier, was "'../images/deci...")
+2013-12-08 19:20:38 overwrite stylesheets/app.css 
+2013-12-08 19:21:40     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "...in main-sprite(": expected variable (e.g. $foo), was "'../images/deci...")
+2013-12-08 19:21:40 overwrite stylesheets/app.css 
+2013-12-08 19:21:50     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "...in main-sprite(": expected variable (e.g. $foo), was "'../images/deci...")
+2013-12-08 19:21:50 identical stylesheets/app.css 
+2013-12-08 19:22:18     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "  @include at2x( ": expected ")", was "@include main-s...")
+2013-12-08 19:22:18 overwrite stylesheets/app.css 
+2013-12-08 19:22:20     error sass/app.scss (Line 16 of sass/_custom.scss: Invalid CSS after "  @include at2x( ": expected ")", was "@include main-s...")
+2013-12-08 19:22:20 identical stylesheets/app.css 
+2013-12-08 19:22:28 overwrite stylesheets/app.css 
+2013-12-08 19:22:48 overwrite stylesheets/app.css 
+2013-12-08 19:23:16 overwrite stylesheets/app.css 
+2013-12-08 19:23:34     error sass/app.scss (Line 2 of sass/_mixing.scss: Invalid CSS after "$main-sprite: ": expected expression (e.g. 1px, bold), was "@include at2x('...")
+2013-12-08 19:23:34 overwrite stylesheets/app.css 
+2013-12-08 19:24:27 overwrite stylesheets/app.css 
+2013-12-08 19:24:34 identical stylesheets/app.css 
+2013-12-08 19:24:55 overwrite stylesheets/app.css 
+2013-12-08 19:25:17 overwrite stylesheets/app.css 
+2013-12-08 19:25:51 overwrite stylesheets/app.css 
+2013-12-08 21:54:46 overwrite stylesheets/app.css 
+2013-12-08 21:55:14 identical stylesheets/app.css 
+2013-12-08 21:58:52     error sass/app.scss (Line 4 of sass/_mixing.scss: Invalid CSS after "/*Sprite Image*/": expected selector or at-rule, was "@mixin main-spr...")
+2013-12-08 21:58:52 overwrite stylesheets/app.css 
+2013-12-08 21:59:13 overwrite stylesheets/app.css 
+2013-12-08 21:59:25 overwrite stylesheets/app.css 
+2013-12-08 21:59:34     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 21:59:34 overwrite stylesheets/app.css 
+2013-12-08 22:00:11     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:11 overwrite stylesheets/app.css 
+2013-12-08 22:00:12     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:12 identical stylesheets/app.css 
+2013-12-08 22:00:12     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:12 identical stylesheets/app.css 
+2013-12-08 22:00:13     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:13 identical stylesheets/app.css 
+2013-12-08 22:00:13     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:13 identical stylesheets/app.css 
+2013-12-08 22:00:14     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:14 identical stylesheets/app.css 
+2013-12-08 22:00:14     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:14 identical stylesheets/app.css 
+2013-12-08 22:00:15     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:15 identical stylesheets/app.css 
+2013-12-08 22:00:16     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:16 identical stylesheets/app.css 
+2013-12-08 22:00:16     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:16 identical stylesheets/app.css 
+2013-12-08 22:00:17     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:17 identical stylesheets/app.css 
+2013-12-08 22:00:17     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:17 identical stylesheets/app.css 
+2013-12-08 22:00:18     error sass/app.scss (Line 1 of sass/_mixing.scss: File to import not found or unreadable: bourbon/bourbon.
+Load paths:
+  /Users/danielphillips/git/touch-point/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2013-12-08 22:00:18 identical stylesheets/app.css 
+2013-12-08 22:00:20 overwrite stylesheets/app.css 
+2013-12-08 22:02:20 overwrite stylesheets/app.css 
+2013-12-08 22:03:13 identical stylesheets/app.css 
+2013-12-08 22:03:22 overwrite stylesheets/app.css 
+2013-12-08 22:04:01 overwrite stylesheets/app.css 
+2013-12-08 22:04:59 overwrite stylesheets/app.css 
+2013-12-08 22:06:45 overwrite stylesheets/app.css 
+2013-12-08 22:06:56 identical stylesheets/app.css 
+2013-12-08 22:09:45 overwrite stylesheets/app.css 
+2013-12-08 22:09:49 overwrite stylesheets/app.css 
+2013-12-08 22:10:42 overwrite stylesheets/app.css 
+2013-12-08 22:10:55 overwrite stylesheets/app.css 
+2013-12-08 22:10:59 overwrite stylesheets/app.css 
+2013-12-08 22:12:05 overwrite stylesheets/app.css 
+2013-12-08 22:12:18 overwrite stylesheets/app.css 
+2013-12-08 22:12:42 overwrite stylesheets/app.css 
+2013-12-08 22:13:29 overwrite stylesheets/app.css 
+2013-12-08 22:13:55 overwrite stylesheets/app.css 
+2013-12-08 22:15:52 overwrite stylesheets/app.css 
+2013-12-08 22:16:06 overwrite stylesheets/app.css 
+2013-12-08 22:16:38 overwrite stylesheets/app.css 
+2013-12-08 22:16:51 overwrite stylesheets/app.css 
+2013-12-08 22:17:18 overwrite stylesheets/app.css 
+2013-12-08 22:19:57 overwrite stylesheets/app.css 
+2013-12-08 22:20:10     error sass/app.scss (Line 33 of sass/_custom.scss: Invalid CSS after "...osition: -170px": expected ";", was "&:focus{")
+2013-12-08 22:20:10 overwrite stylesheets/app.css 
+2013-12-08 22:20:14 overwrite stylesheets/app.css 
+2013-12-08 22:20:24 overwrite stylesheets/app.css 
+2013-12-08 22:25:22 overwrite stylesheets/app.css 
+2013-12-08 22:25:29 overwrite stylesheets/app.css 
+2013-12-08 22:26:32 overwrite stylesheets/app.css 
+2013-12-08 22:26:53 overwrite stylesheets/app.css 
+2013-12-08 22:27:17 overwrite stylesheets/app.css 
+2013-12-08 22:38:19 overwrite stylesheets/app.css 
+2013-12-08 22:39:28 identical stylesheets/app.css 
+2013-12-08 22:41:07 overwrite stylesheets/app.css 
+2013-12-08 22:42:22 overwrite stylesheets/app.css 
+2013-12-08 22:42:29 overwrite stylesheets/app.css 
+2013-12-08 22:42:35 identical stylesheets/app.css 
+2013-12-08 22:42:38 overwrite stylesheets/app.css 
+2013-12-08 22:42:49 overwrite stylesheets/app.css 
+2013-12-08 22:43:10     error sass/app.scss (Line 63 of sass/_custom.scss: Invalid CSS after "...in: 10px 0 0 0;": expected "}", was "")
+2013-12-08 22:43:10 overwrite stylesheets/app.css 
+2013-12-08 22:43:12     error sass/app.scss (Line 63 of sass/_custom.scss: Invalid CSS after "...in: 10px 0 0 0;": expected "}", was "")
+2013-12-08 22:43:12 identical stylesheets/app.css 
+2013-12-08 22:44:39     error sass/app.scss (Line 64 of sass/_custom.scss: Invalid CSS after "...color: #1d1d1e;": expected "}", was "")
+2013-12-08 22:44:39 overwrite stylesheets/app.css 
+2013-12-08 22:45:08 overwrite stylesheets/app.css 
+2013-12-08 22:45:20 overwrite stylesheets/app.css 
+2013-12-08 22:45:35 overwrite stylesheets/app.css 
+2013-12-08 22:46:04 overwrite stylesheets/app.css 
+2013-12-08 22:46:18 overwrite stylesheets/app.css 
+2013-12-08 22:47:15 overwrite stylesheets/app.css 
+2013-12-08 22:48:34 overwrite stylesheets/app.css 
+2013-12-08 22:48:39 overwrite stylesheets/app.css 
+2013-12-08 22:49:05 overwrite stylesheets/app.css 
+2013-12-08 22:49:08 identical stylesheets/app.css 
+2013-12-08 22:50:07 overwrite stylesheets/app.css 
+2013-12-08 22:50:35 overwrite stylesheets/app.css 
+2013-12-08 22:50:41 identical stylesheets/app.css 
+2013-12-08 22:53:02 overwrite stylesheets/app.css 
+2013-12-08 22:53:38 overwrite stylesheets/app.css 
+2013-12-08 22:53:42 identical stylesheets/app.css 
+2013-12-08 22:53:55 overwrite stylesheets/app.css 
+2013-12-08 22:56:57 overwrite stylesheets/app.css 
+2013-12-08 22:58:56 overwrite stylesheets/app.css 
+2013-12-08 22:59:32 overwrite stylesheets/app.css 
+2013-12-08 22:59:39 identical stylesheets/app.css 
+2013-12-08 23:00:07 overwrite stylesheets/app.css 
+2013-12-08 23:00:11 overwrite stylesheets/app.css 
+2013-12-08 23:00:32 overwrite stylesheets/app.css 
+2013-12-08 23:01:01 overwrite stylesheets/app.css 
+2013-12-08 23:01:13 overwrite stylesheets/app.css 
+2013-12-08 23:01:35 overwrite stylesheets/app.css 
+2013-12-08 23:01:38 identical stylesheets/app.css 
+2013-12-08 23:01:55 overwrite stylesheets/app.css 
+2013-12-08 23:03:25 overwrite stylesheets/app.css 
+2013-12-08 23:03:40 overwrite stylesheets/app.css 
+2013-12-08 23:04:00 overwrite stylesheets/app.css 
+2013-12-08 23:06:22 overwrite stylesheets/app.css 
+2013-12-08 23:06:41 overwrite stylesheets/app.css 
+2013-12-08 23:06:46 overwrite stylesheets/app.css 
+2013-12-08 23:06:51 overwrite stylesheets/app.css 
+2013-12-08 23:06:58 overwrite stylesheets/app.css 
+2013-12-08 23:07:16 overwrite stylesheets/app.css 
+2013-12-08 23:07:24 identical stylesheets/app.css 
+2013-12-08 23:07:37     error sass/app.scss (Line 81 of sass/_custom.scss: Invalid CSS after "...@include size()": expected "}", was "88px")
+2013-12-08 23:07:37 overwrite stylesheets/app.css 
+2013-12-08 23:07:44 overwrite stylesheets/app.css 
+2013-12-08 23:07:55 overwrite stylesheets/app.css 
+2013-12-08 23:08:15 overwrite stylesheets/app.css 
+2013-12-08 23:08:27 overwrite stylesheets/app.css 
+2013-12-08 23:09:54     error sass/app.scss (Line 19 of sass/_mixing.scss: Invalid CSS after "/*": expected /\//, was "*Ellipse Text/")
+2013-12-08 23:09:54 overwrite stylesheets/app.css 
+2013-12-08 23:10:19 overwrite stylesheets/app.css 
+2013-12-08 23:10:43 overwrite stylesheets/app.css 
+2013-12-08 23:11:18 overwrite stylesheets/app.css 
+2013-12-08 23:12:03 overwrite stylesheets/app.css 
+2013-12-08 23:12:50 overwrite stylesheets/app.css 
+2013-12-08 23:13:36 overwrite stylesheets/app.css 
+2013-12-08 23:14:00 overwrite stylesheets/app.css 
+2013-12-08 23:14:33 overwrite stylesheets/app.css 
+2013-12-08 23:15:00 overwrite stylesheets/app.css 
+2013-12-08 23:16:00 overwrite stylesheets/app.css 
+2013-12-08 23:16:22 overwrite stylesheets/app.css 
+2013-12-08 23:16:31 overwrite stylesheets/app.css 
+2013-12-08 23:23:49 overwrite stylesheets/app.css 
+2013-12-08 23:28:31 overwrite stylesheets/app.css 
+2013-12-08 23:28:37 identical stylesheets/app.css 
+2013-12-08 23:29:52 overwrite stylesheets/app.css 
+2013-12-08 23:30:01 identical stylesheets/app.css 
+2013-12-08 23:30:19 overwrite stylesheets/app.css 
+2013-12-08 23:30:38 overwrite stylesheets/app.css 
+2013-12-08 23:30:52 overwrite stylesheets/app.css 
+2013-12-08 23:30:54 identical stylesheets/app.css 
+2013-12-08 23:32:33 overwrite stylesheets/app.css 
+2013-12-08 23:32:38 overwrite stylesheets/app.css 
+2013-12-08 23:33:01 overwrite stylesheets/app.css 
+2013-12-08 23:33:09 overwrite stylesheets/app.css 
+2013-12-08 23:33:51 overwrite stylesheets/app.css 
+2013-12-08 23:33:58 overwrite stylesheets/app.css 
+2013-12-08 23:34:42 overwrite stylesheets/app.css 
+2013-12-08 23:35:02 overwrite stylesheets/app.css 
+2013-12-08 23:35:35 overwrite stylesheets/app.css 
+2013-12-08 23:36:01 overwrite stylesheets/app.css 
+2013-12-08 23:36:33 overwrite stylesheets/app.css 
+2013-12-08 23:36:56 overwrite stylesheets/app.css 
+2013-12-08 23:37:12 overwrite stylesheets/app.css 
+2013-12-08 23:37:21 overwrite stylesheets/app.css 
+2013-12-08 23:37:39 overwrite stylesheets/app.css 
+2013-12-08 23:38:00 overwrite stylesheets/app.css 
+2013-12-08 23:38:24 overwrite stylesheets/app.css 
+2013-12-08 23:38:49 overwrite stylesheets/app.css 
+2013-12-08 23:39:20 overwrite stylesheets/app.css 
+2013-12-08 23:39:35 overwrite stylesheets/app.css 
+2013-12-08 23:39:39 overwrite stylesheets/app.css 
+2013-12-08 23:40:01 overwrite stylesheets/app.css 
+2013-12-08 23:40:45 overwrite stylesheets/app.css 
+2013-12-08 23:41:14 overwrite stylesheets/app.css 
+2013-12-08 23:41:40 overwrite stylesheets/app.css 
+2013-12-08 23:41:49 overwrite stylesheets/app.css 
+2013-12-08 23:45:14 overwrite stylesheets/app.css 
+2013-12-08 23:46:50 overwrite stylesheets/app.css 
+2013-12-08 23:47:46 overwrite stylesheets/app.css 
+2013-12-09 00:00:18 overwrite stylesheets/app.css 
+2013-12-09 00:00:22 overwrite stylesheets/app.css 
+2013-12-09 00:00:48 overwrite stylesheets/app.css 
+2013-12-09 00:01:27 overwrite stylesheets/app.css 
+2013-12-09 00:02:29 overwrite stylesheets/app.css 
+2013-12-09 00:04:12 overwrite stylesheets/app.css 
+2013-12-09 00:04:38 overwrite stylesheets/app.css 
+2013-12-09 00:06:00 overwrite stylesheets/app.css 
+2013-12-09 14:36:49 overwrite stylesheets/app.css 
+2013-12-09 14:38:57 overwrite stylesheets/app.css 
+2013-12-09 14:39:56 overwrite stylesheets/app.css 
+2013-12-09 14:40:43 overwrite stylesheets/app.css 
+2013-12-09 14:41:09 overwrite stylesheets/app.css 
+2013-12-09 14:41:13 overwrite stylesheets/app.css 
+2013-12-09 14:41:34 overwrite stylesheets/app.css 
+2013-12-09 14:41:43 overwrite stylesheets/app.css 
+2013-12-09 14:41:56 overwrite stylesheets/app.css 
+2013-12-09 14:42:52 overwrite stylesheets/app.css 
+2013-12-09 14:43:05 overwrite stylesheets/app.css 
+2013-12-09 14:43:13 overwrite stylesheets/app.css 
+2013-12-09 14:43:20 overwrite stylesheets/app.css 
+2013-12-09 14:45:36 overwrite stylesheets/app.css 
+2013-12-09 14:45:46 overwrite stylesheets/app.css 
+2013-12-09 14:46:23 overwrite stylesheets/app.css 
+2013-12-09 14:46:54 overwrite stylesheets/app.css 
+2013-12-09 14:47:18     error sass/app.scss (Line 137 of sass/_custom.scss: Invalid CSS after "... padding: 0 3px": expected ";", was "@include border...")
+2013-12-09 14:47:18 overwrite stylesheets/app.css 
+2013-12-09 14:47:21 overwrite stylesheets/app.css 
+2013-12-09 14:47:46 overwrite stylesheets/app.css 
+2013-12-09 14:48:06 overwrite stylesheets/app.css 
+2013-12-09 15:05:05 overwrite stylesheets/app.css 
+2013-12-09 15:06:25 overwrite stylesheets/app.css 
+2013-12-09 15:07:29 overwrite stylesheets/app.css 
+2013-12-09 15:07:35 overwrite stylesheets/app.css 
+2013-12-09 15:07:54 overwrite stylesheets/app.css 
+2013-12-09 15:08:15 overwrite stylesheets/app.css 
+2013-12-09 15:08:38 overwrite stylesheets/app.css 
+2013-12-09 15:09:50 overwrite stylesheets/app.css 
+2013-12-09 15:10:57 overwrite stylesheets/app.css 
+2013-12-09 15:11:04 overwrite stylesheets/app.css 
+2013-12-09 15:11:12 overwrite stylesheets/app.css 
+2013-12-09 15:11:22 overwrite stylesheets/app.css 
+2013-12-09 15:11:47 overwrite stylesheets/app.css 
+2013-12-09 15:12:19 overwrite stylesheets/app.css 
+2013-12-09 15:12:49 overwrite stylesheets/app.css 
+2013-12-09 15:13:01 overwrite stylesheets/app.css 
+2013-12-09 15:13:13 overwrite stylesheets/app.css 
+2013-12-09 15:13:23 overwrite stylesheets/app.css 
+2013-12-09 15:17:35 identical stylesheets/app.css 
+2013-12-09 15:17:50 overwrite stylesheets/app.css 
+2013-12-09 15:19:23 overwrite stylesheets/app.css 
+2013-12-09 15:19:32 overwrite stylesheets/app.css 
+2013-12-09 15:19:56 overwrite stylesheets/app.css 
+2013-12-09 15:20:38 overwrite stylesheets/app.css 
+2013-12-09 15:20:48 overwrite stylesheets/app.css 
+2013-12-09 15:21:03 overwrite stylesheets/app.css 
+2013-12-09 15:25:45 overwrite stylesheets/app.css 
+2013-12-09 15:26:55 overwrite stylesheets/app.css 
+2013-12-09 15:28:49 overwrite stylesheets/app.css 
+2013-12-09 15:33:15 overwrite stylesheets/app.css 
+2013-12-09 15:33:23 identical stylesheets/app.css 
+2013-12-09 15:34:12 identical stylesheets/app.css 
+2013-12-09 15:35:04 overwrite stylesheets/app.css 
+2013-12-09 15:35:19 overwrite stylesheets/app.css 
+2013-12-09 15:35:53 overwrite stylesheets/app.css 
+2013-12-09 15:36:12 overwrite stylesheets/app.css 
+2013-12-09 15:36:32 overwrite stylesheets/app.css 
+2013-12-09 15:36:46 overwrite stylesheets/app.css 
+2013-12-09 15:36:54 overwrite stylesheets/app.css 
+2013-12-09 15:37:02 overwrite stylesheets/app.css 
+2013-12-09 15:37:11 overwrite stylesheets/app.css 
+2013-12-09 15:37:14 overwrite stylesheets/app.css 
+2013-12-09 15:37:59 overwrite stylesheets/app.css 
+2013-12-09 15:38:10 overwrite stylesheets/app.css 
+2013-12-09 15:38:19 identical stylesheets/app.css 
+2013-12-09 15:38:44 overwrite stylesheets/app.css 
+2013-12-09 15:39:05 overwrite stylesheets/app.css 
+2013-12-09 15:39:19 overwrite stylesheets/app.css 
+2013-12-09 15:39:50 overwrite stylesheets/app.css 
+2013-12-09 15:39:57 overwrite stylesheets/app.css 
+2013-12-09 15:41:39 overwrite stylesheets/app.css 
+2013-12-09 15:42:21 overwrite stylesheets/app.css 
+2013-12-09 15:42:28 overwrite stylesheets/app.css 
+2013-12-09 15:42:33 overwrite stylesheets/app.css 
+2013-12-09 15:42:47 overwrite stylesheets/app.css 
+2013-12-09 15:43:22 overwrite stylesheets/app.css 
+2013-12-09 15:43:28 overwrite stylesheets/app.css 
+2013-12-09 15:43:31 overwrite stylesheets/app.css 
+2013-12-09 16:35:25 overwrite stylesheets/app.css 
+2013-12-09 16:36:23 overwrite stylesheets/app.css 
+2013-12-09 16:36:32 overwrite stylesheets/app.css 
+2013-12-09 16:36:47 overwrite stylesheets/app.css 
+2013-12-09 16:37:14 overwrite stylesheets/app.css 
+2013-12-09 16:37:50 identical stylesheets/app.css 
+2013-12-09 16:38:45 overwrite stylesheets/app.css 
+2013-12-09 16:39:15 overwrite stylesheets/app.css 
+2013-12-09 16:39:38 overwrite stylesheets/app.css 
+2013-12-09 16:40:02 overwrite stylesheets/app.css 
+2013-12-09 16:41:49 overwrite stylesheets/app.css 
+2013-12-09 16:41:52 overwrite stylesheets/app.css 
+2013-12-09 16:42:23 overwrite stylesheets/app.css 
+2013-12-09 16:42:59 overwrite stylesheets/app.css 
+2013-12-09 16:43:23 overwrite stylesheets/app.css 
+2013-12-09 16:43:35 overwrite stylesheets/app.css 
+2013-12-09 16:44:15 overwrite stylesheets/app.css 
+2013-12-09 16:44:31 overwrite stylesheets/app.css 
+2013-12-09 16:44:55 overwrite stylesheets/app.css 
+2013-12-09 16:44:59 overwrite stylesheets/app.css 
+2013-12-09 16:45:16 overwrite stylesheets/app.css 
+2013-12-09 16:46:33 overwrite stylesheets/app.css 
+2013-12-09 16:46:45 overwrite stylesheets/app.css 
+2013-12-09 16:46:53 overwrite stylesheets/app.css 
+2013-12-09 16:47:36 overwrite stylesheets/app.css 
+2013-12-09 16:47:43 overwrite stylesheets/app.css 
+2013-12-09 16:54:13 identical stylesheets/app.css 
+2013-12-09 16:54:33 overwrite stylesheets/app.css 
+2013-12-09 17:08:31 overwrite stylesheets/app.css 
+2013-12-09 17:08:37 overwrite stylesheets/app.css 
+2013-12-09 17:08:52 overwrite stylesheets/app.css 
+2013-12-09 17:08:59 overwrite stylesheets/app.css 
+2013-12-09 17:09:22 overwrite stylesheets/app.css 
+2013-12-09 17:09:27 identical stylesheets/app.css 
+2013-12-09 17:09:38 identical stylesheets/app.css 
+2013-12-09 17:09:47 overwrite stylesheets/app.css 
+2013-12-09 17:10:14 overwrite stylesheets/app.css 
+2013-12-09 17:11:31 overwrite stylesheets/app.css 
+2013-12-09 17:11:46 overwrite stylesheets/app.css 
+2013-12-09 17:11:53 overwrite stylesheets/app.css 
+2013-12-09 17:12:34 overwrite stylesheets/app.css 
+2013-12-09 17:12:46 overwrite stylesheets/app.css 
+2013-12-09 17:13:43 overwrite stylesheets/app.css 
+2013-12-09 17:13:54 overwrite stylesheets/app.css 
+2013-12-09 17:15:53 overwrite stylesheets/app.css 
+2013-12-09 17:17:23 overwrite stylesheets/app.css 
+2013-12-09 17:17:27 overwrite stylesheets/app.css 
+2013-12-09 17:18:05 overwrite stylesheets/app.css 
+2013-12-09 17:18:14 overwrite stylesheets/app.css 
+2013-12-09 17:18:26 overwrite stylesheets/app.css 
+2013-12-09 17:18:34 overwrite stylesheets/app.css 
+2013-12-09 17:20:46 overwrite stylesheets/app.css 
+2013-12-09 17:21:09 overwrite stylesheets/app.css 
+2013-12-09 17:21:19 overwrite stylesheets/app.css 
+2013-12-09 17:38:32 overwrite stylesheets/app.css 
+2013-12-09 17:40:09 overwrite stylesheets/app.css 
+2013-12-09 17:40:23 overwrite stylesheets/app.css 
+2013-12-09 17:42:01 overwrite stylesheets/app.css 
+2013-12-09 17:42:26 overwrite stylesheets/app.css 
+2013-12-09 17:42:30 overwrite stylesheets/app.css 
+2013-12-09 17:42:42 overwrite stylesheets/app.css 
+2013-12-09 17:43:19 overwrite stylesheets/app.css 
+2013-12-09 17:44:14 overwrite stylesheets/app.css 
+2013-12-09 17:44:21 overwrite stylesheets/app.css 
+2013-12-09 17:45:04 identical stylesheets/app.css 
+2013-12-09 17:45:11 overwrite stylesheets/app.css 
+2013-12-09 17:45:19 overwrite stylesheets/app.css 
+2013-12-09 17:45:26 overwrite stylesheets/app.css 
+2013-12-09 18:11:44 overwrite stylesheets/app.css 
+2013-12-09 18:31:48 overwrite stylesheets/app.css 
+2013-12-09 18:31:54 overwrite stylesheets/app.css 
+2013-12-09 18:32:00 overwrite stylesheets/app.css 
+2013-12-09 18:35:25 overwrite stylesheets/app.css 
+2013-12-09 18:35:51 overwrite stylesheets/app.css 
+2013-12-09 18:37:00 overwrite stylesheets/app.css 
+2013-12-09 18:37:10 overwrite stylesheets/app.css 
+2013-12-09 18:37:17 overwrite stylesheets/app.css 
+2013-12-09 18:37:28 overwrite stylesheets/app.css 
+2013-12-09 18:37:34 overwrite stylesheets/app.css 
+2013-12-09 18:37:44 overwrite stylesheets/app.css 
+2013-12-09 18:37:46 overwrite stylesheets/app.css 
+2013-12-09 18:38:08 overwrite stylesheets/app.css 
+2013-12-09 18:38:59 overwrite stylesheets/app.css 
+2013-12-09 18:39:34 overwrite stylesheets/app.css 
+2013-12-09 18:39:41 overwrite stylesheets/app.css 
+2013-12-09 18:39:59 overwrite stylesheets/app.css 
+2013-12-09 18:43:35 overwrite stylesheets/app.css 
+2013-12-09 18:43:50 overwrite stylesheets/app.css 
+2013-12-09 18:44:27 overwrite stylesheets/app.css 
+2013-12-09 18:44:46 overwrite stylesheets/app.css 
+2013-12-09 18:49:12 overwrite stylesheets/app.css 
+2013-12-09 18:50:01 overwrite stylesheets/app.css 
+2013-12-09 18:50:38 overwrite stylesheets/app.css 
+2013-12-09 18:50:46 overwrite stylesheets/app.css 
+2013-12-09 18:51:39 overwrite stylesheets/app.css 
+2013-12-09 18:54:18 overwrite stylesheets/app.css 
+2013-12-09 19:41:55 overwrite stylesheets/app.css 
+2013-12-09 19:42:34     error sass/app.scss (Line 256 of sass/_custom.scss: Invalid CSS after "...om: 21px solid ": expected ";", was "##b9b9ba;")
+2013-12-09 19:42:34 overwrite stylesheets/app.css 
+2013-12-09 19:42:58 overwrite stylesheets/app.css 
+2013-12-09 19:43:07 overwrite stylesheets/app.css 
+2013-12-09 19:43:20 overwrite stylesheets/app.css 
+2013-12-09 19:43:43 overwrite stylesheets/app.css 
+2013-12-09 19:43:54 overwrite stylesheets/app.css 
+2013-12-09 19:44:14 overwrite stylesheets/app.css 
+2013-12-09 19:44:24 overwrite stylesheets/app.css 
+2013-12-09 19:44:33 overwrite stylesheets/app.css 
+2013-12-09 19:44:43 overwrite stylesheets/app.css 
+2013-12-09 19:45:10 overwrite stylesheets/app.css 
+2013-12-09 19:45:18 overwrite stylesheets/app.css 
+2013-12-09 19:45:23 overwrite stylesheets/app.css 
+2013-12-09 19:45:32 overwrite stylesheets/app.css 
+2013-12-09 19:45:44 overwrite stylesheets/app.css 
+2013-12-09 19:46:50 overwrite stylesheets/app.css 
+2013-12-09 19:46:58 overwrite stylesheets/app.css 
+2013-12-09 19:54:48 overwrite stylesheets/app.css 
+2013-12-09 19:54:57 overwrite stylesheets/app.css 
+2013-12-09 19:55:03 identical stylesheets/app.css 
+2013-12-09 19:55:30 overwrite stylesheets/app.css 
+2013-12-09 19:56:30 overwrite stylesheets/app.css 
+2013-12-09 19:56:43 overwrite stylesheets/app.css 
+2013-12-09 19:56:51 overwrite stylesheets/app.css 
+2013-12-09 19:57:44 overwrite stylesheets/app.css 
+2013-12-09 19:58:03 overwrite stylesheets/app.css 
+2013-12-09 20:00:10 overwrite stylesheets/app.css 
+2013-12-09 20:00:50 overwrite stylesheets/app.css 
+2013-12-09 20:01:49 overwrite stylesheets/app.css 
+2013-12-09 20:02:20 overwrite stylesheets/app.css 
+2013-12-09 20:02:44 overwrite stylesheets/app.css 
+2013-12-09 20:03:15 overwrite stylesheets/app.css 
+2013-12-09 20:03:23 overwrite stylesheets/app.css 
+2013-12-09 20:03:29 overwrite stylesheets/app.css 
+2013-12-09 20:03:36 overwrite stylesheets/app.css 
+2013-12-09 20:03:48     error sass/app.scss (Line 283 of sass/_custom.scss: Invalid CSS after "        color": expected ";", was ": #b9b9ba;")
+2013-12-09 20:03:48 overwrite stylesheets/app.css 
+2013-12-09 20:03:51     error sass/app.scss (Line 283 of sass/_custom.scss: Invalid CSS after "        color": expected ";", was ": #b9b9ba;")
+2013-12-09 20:03:51 identical stylesheets/app.css 
+2013-12-09 20:03:57 overwrite stylesheets/app.css 
+2013-12-09 20:04:33 overwrite stylesheets/app.css 
+2013-12-09 20:04:45 overwrite stylesheets/app.css 
+2013-12-09 20:05:00 overwrite stylesheets/app.css 
+2013-12-09 20:09:17 overwrite stylesheets/app.css 
+2013-12-09 20:09:29 overwrite stylesheets/app.css 
+2013-12-09 20:09:36 identical stylesheets/app.css 
+2013-12-09 20:09:50 identical stylesheets/app.css 
+2013-12-09 20:11:13 overwrite stylesheets/app.css 
+2013-12-09 20:11:33 identical stylesheets/app.css 
+2013-12-09 20:11:38 overwrite stylesheets/app.css 
+2013-12-09 20:11:44 identical stylesheets/app.css 
+2013-12-09 20:12:03 overwrite stylesheets/app.css 
+2013-12-09 20:12:14 overwrite stylesheets/app.css 
+2013-12-09 20:12:19 overwrite stylesheets/app.css 
+2013-12-09 20:14:30 overwrite stylesheets/app.css 
+2013-12-09 20:14:34 overwrite stylesheets/app.css 
+2013-12-09 20:14:58 identical stylesheets/app.css 
+2013-12-09 20:15:18 overwrite stylesheets/app.css 
+2013-12-09 20:16:16 overwrite stylesheets/app.css 
+2013-12-09 20:16:33 identical stylesheets/app.css 
+2013-12-09 20:18:23     error sass/app.scss (Line 288 of sass/_custom.scss: Invalid CSS after "...  .toolbox-btn.": expected class name, was "}")
+2013-12-09 20:18:23 overwrite stylesheets/app.css 
+2013-12-09 20:18:34 overwrite stylesheets/app.css 
+2013-12-09 20:18:45 overwrite stylesheets/app.css 
+2013-12-09 20:18:56 overwrite stylesheets/app.css 
+2013-12-09 20:19:07 overwrite stylesheets/app.css 
+2013-12-09 20:19:22 overwrite stylesheets/app.css 
+2013-12-09 20:19:26 overwrite stylesheets/app.css 
+2013-12-09 20:19:37 overwrite stylesheets/app.css 
+2013-12-09 20:20:17 overwrite stylesheets/app.css 
+2013-12-09 20:20:22 overwrite stylesheets/app.css 
+2013-12-09 20:20:35 overwrite stylesheets/app.css 
+2013-12-09 20:20:42 overwrite stylesheets/app.css 
+2013-12-09 20:21:33 overwrite stylesheets/app.css 
+2013-12-09 20:23:33 overwrite stylesheets/app.css 
+2013-12-10 09:20:42 overwrite stylesheets/app.css 
+2013-12-10 11:31:45 identical stylesheets/app.css 
+2013-12-10 11:32:00 overwrite stylesheets/app.css 
+2013-12-10 11:32:06 overwrite stylesheets/app.css 

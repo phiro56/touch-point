@@ -1,0 +1,316 @@
+html{
+  background: url('../images/html-bg.png') #555555; 
+}
+body{
+  background: transparent;
+}
+.testOutline{ outline: 1px solid red;}
+
+
+/*HEADER STYLES*/
+header{
+  background: #303031;
+  .mainMenu{
+    .decisiv-brand {
+      @include size(170px 36px);
+      float: left;
+      margin: 5px 0;
+      @include main-sprite;
+      background-position: 0 0;
+    } 
+    form.headerSearch{
+      float: left;
+      margin: 10px 0 0 30px;
+      input[type="text"]{
+        float: left;
+        @include size(174px 24px);
+        background: #898989;
+        border: 1px solid #1a1a1a;
+        @include border-left-radius(3px);
+        margin: 0;
+        color: #242425;
+        &:focus{
+          background: #b9b9b9;
+        }
+      }
+      input[type="submit"]{
+        float: left;
+        width: 25px;
+        height: 24px;
+        margin-left: -1px;
+        background-color: #0c6a8e;
+        border: 1px solid #1a1a1a;
+        @include border-right-radius(3px);
+        @include main-sprite;
+        background-position: 1px -36px;
+        &:hover{
+          background-color: #10759b;
+        }
+      }
+    }
+    
+    .headerSettings{
+      @include size(30px 25px);
+      float: right;
+      margin: 12px 5px 0 0;
+      @include main-sprite;
+      background-position: -20px -40px;
+    }
+    
+    .headerProfileWrap{
+      @include size(auto 46px);
+      float: right;
+      margin:0;
+      background-color: #1d1d1e;
+      cursor: pointer;
+      .profileImg{
+        @include size(30px 25px);
+        float: left;
+        background-color: #fff;
+        background-size: cover;
+        background-position: center center; 
+        margin: 10px 5px 0;
+        @include border-left-radius(3px);
+        @include border-right-radius(3px);
+      }
+      .profileName{
+        @include size(auto 46px);
+        float: left;
+        margin: 0 0 0 2px;
+        color:#abaeb0;
+        font-size: 12px;
+        text-transform: uppercase;
+        span{
+          display: block;
+          max-width: 120px;
+          @include ellipsis-text;
+          line-height: 46px; 
+        }
+      }    
+      .profileChevron{
+        float:  right;
+        @include size(16px 14px);      
+        margin: 15px 8px 0 8px;
+        @include main-sprite;
+        background-position: -61px -37px;
+      }
+      &:hover{
+        .profileName{
+          color: #fff;
+          span.company{
+            color: #999;
+          } 
+        }
+        .profileChevron{
+          background-position: -61px -52px;
+        }
+      }
+    }
+  }
+  
+  .subMenu{
+    background: #555555;
+    color: #abaeb0;
+    @include size(auto 33px);      
+    .goupsWarp{
+      a.groupsTrigger{
+        float: left;
+        @include size(auto 32px);      
+        background: #4c4c4c;
+        margin: 0;
+        padding: 0 8px;
+        .text,
+        .groupName{
+          float: left;
+          line-height: 32px;
+          color: #949494;
+          font-size: 12px;
+          text-transform: uppercase;
+        }
+        .groupName{
+          color: #ffffff;
+          margin-left: 4px;
+        }
+        .rightChevron{
+          float: left;
+          @include size(26px 26px);      
+          background: #303031;
+          margin: 3px 0 0 8px;
+          border: 1px solid #242425;
+          @include main-sprite;
+          background-position: -108px -36px;
+          @include border-left-radius(1px);
+          @include border-right-radius(1px);
+        }
+        &:hover .rightChevron{
+          background-color: #474747;
+        }
+      }
+    }
+    .optionsWrap{
+      float: left;
+      margin-left: 65px;
+      .option-btn{
+        position: relative;
+        float: left;
+        @include size(auto 26px);      
+        background: #303031;
+        margin: 3px;
+        padding: 0 5px 0 38px;
+        border: 1px solid #303031;  
+        color: #dcdcdd;
+        line-height: 24px;
+        font-size: 12px;  
+        @include border-left-radius(2px);
+        @include border-right-radius(2px);
+        &:hover{
+          background: #474747;
+        }
+        .btn-icon{
+          position: absolute;
+          top: 0;
+          left: 4px;
+          @include size(28px 22px);      
+          @include main-sprite;
+          background-position: -108px -36px;
+          &.dashboard-icon{
+            background-position: -130px -36px;
+          }
+          &.profile-icon{
+            background-position: -78px -36px;
+          }
+          &.list-icon{
+            background-position: -155px -36px;
+          }
+        }
+        &.active{
+          background: #116382;
+          color: #ffffff;
+          .btn-icon{
+            background-position-y: -58px;
+          }
+        }
+      }
+    }
+    .toolsWrap{
+      float: right;
+      position: relative;
+      .divider{
+        width: 1px;
+        height: 24px;
+        float: left;
+        background: #4a4a4a;
+        margin:4px 5px 0;
+      }
+      a.trigger-btn{
+        float: left;
+        @include size(34px 33px);      
+        @include main-sprite;
+        margin:0;
+        &.calendar-trigger{
+          background-position: 2px -80px;
+        }
+        &.message-trigger{
+          background-position: -27px -80px;
+        }
+        &.toolobox-trigger{
+          background-position: -58px -80px;
+        }
+        &:hover,
+        &.active{
+          background-position-y: -110px;
+          background-color: #4b4b4b;
+        }
+      }      
+    }
+    .toolBoxWrap{
+      display: none;
+      position: absolute;
+      top:37px;
+      right: 0;
+      @include size(auto auto);  
+      background: #ffffff;
+      z-index: 10;
+      border: 1px solid #b9b9ba;
+      @include border-left-radius(5px);
+      @include border-right-radius(5px);
+      &:before,
+      &:after{
+        position: absolute;
+        right: 13px;
+        width: 0;
+        height: 0;
+        content: '';
+      }
+      &:after{
+        top: -3px;
+        margin-left: -3px;
+        border-right: 3px solid transparent;
+        border-bottom: 3px solid #ffffff;
+        border-left: 3px solid transparent;
+      }
+      &:before{
+        top: -4px;
+        right: 12px;
+        margin-left: -4px;
+        border-right: 4px solid transparent;
+        border-bottom: 4px solid #b9b9ba;
+        border-left: 4px solid transparent;
+      }
+      .header{
+        color: #0c6a8e;
+        display: block;
+        text-transform: uppercase;
+        font-size: 12px;
+        text-align: center;
+        margin: 5px 5px 3px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid #b9b9ba 
+      }
+      a.toolbox-btn{
+        @include size(80px auto);  
+        @include border-left-radius(3px);
+        @include border-right-radius(3px);
+        display: block;
+        text-transform: uppercase;
+        font-size: 12px;
+        text-align: center;
+        margin: 5px;
+        padding: 3px 5px;
+        color: #b9b9ba;
+        background: #ffffff;
+        border: 1px solid #b9b9ba; 
+        &:hover{
+          color: #0c6a8e;
+          border-color: #0c6a8e;
+        }
+      }
+      .addNewWrap{
+        @include size(80px auto);  
+        border-top: 1px solid #b9b9ba;
+        padding: 6px 0 0;
+        margin: 6px 5px 5px;
+        .toolbox-btn.addNew{
+          border-style: dashed;
+          margin: 0;
+        }
+      }
+    }
+  }
+}
+
+.mainWrap{
+  background: #dcdcdd;
+  height: 550px;
+  overflow: scroll;
+  @include border-bottom-radius(4px);
+}
+
+footer{
+  span{
+    display: inline-block;
+    color: #8f979d;
+    font-size: 12px;
+    margin-top: 6px;
+  }
+}

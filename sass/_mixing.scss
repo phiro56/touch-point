@@ -1,0 +1,30 @@
+@import '../bourbon/bourbon';
+
+/*Retina Mixing*/  
+@mixin at2x($image_name, $w, $h, $extention) {
+  background-image: image_url($image_name + $extention);
+  $x2img : $image_name + '@2x' + $extention;
+
+  @media only screen and (-webkit-min-device-pixel-ratio: 2),
+  only screen and (-moz-min-device-pixel-ratio: 2),
+  only screen and (-o-min-device-pixel-ratio: 2/1),
+  only screen and (min-device-pixel-ratio: 2),
+  only screen and (min-resolution: 192dpi),
+  only screen and (min-resolution: 2dppx){
+    background-image: image_url($x2img);
+    background-size: $w $h;
+  }  
+}
+
+/*Sprite Image*/
+@mixin main-sprite{
+   @include at2x('../images/main-sprite', 250px, 250px, '.png');  
+}
+
+/*Ellipsis Text*/
+@mixin ellipsis-text{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
